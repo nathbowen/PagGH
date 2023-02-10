@@ -3,6 +3,7 @@
 ## Imágenes de los candidatos
 ### Aquiles Alvarez
 ![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
+<img src="https://static.educalingo.com/img/en/800/stream.jpg">
 ### Cinthia Viteri
 ![Cinthia Viteri](/ruta/a/la/imagen.jpg)
 
