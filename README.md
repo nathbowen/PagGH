@@ -2,8 +2,8 @@
 
 ## Imágenes de los candidatos
 ### Aquiles Alvarez
-![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
-<img src="https://static.educalingo.com/img/en/800/stream.jpg">
+<img src="https://www.elcomercio.com/wp-content/uploads/2023/02/aquiles-700x391.jpg">
+
 ### Cinthia Viteri
 ![Cinthia Viteri](/ruta/a/la/imagen.jpg)
 
