@@ -1,4 +1,4 @@
-# Resultados electorales de la Alcaldía de Guayaquil
+# Resultados electorales 2023
 
 ## Imágenes de los candidatos
 ### Aquiles Alvarez
