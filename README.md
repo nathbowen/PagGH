@@ -15,10 +15,10 @@
   </tr>
   <tr>
     <td>Aquiles Alvarez</td>
-    <td>Cinthia Viteri</td>
+    <td>551, 996</td>
   </tr>
   <tr>
-    <td>551, 996</td>
+    <td>Cinthia Viteri</td>
     <td>420, 208</td>
   </tr>
 </table>
