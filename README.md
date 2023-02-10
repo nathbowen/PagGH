@@ -8,8 +8,17 @@
 <img src="https://notimundo.com.ec/wp-content/uploads/2020/03/cynthia-viteri-coronavirus-681x340.jpg">
 
 ## Resultados 
-Tablas 
-| Candidato | Votos   |
-| ------- | -------- |
-| Aquiles Alvarez  | 551, 996   |
-| Cinthia Viteri   | 420, 208   |
+<table class="default">
+    <tr>
+    <td>Candidato</td>
+    <td>Votos</td>
+  </tr>
+  <tr>
+    <td>Aquiles Alvarez</td>
+    <td>Cinthia Viteri</td>
+  </tr>
+  <tr>
+    <td>551, 996</td>
+    <td>420, 208</td>
+  </tr>
+</table>
